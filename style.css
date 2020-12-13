@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(202, 73, 73);
+}
+.Title_container
+{
+    align-content: center;
+    text-align: center;
+}
+.Header_title
+{
+    font-family: 'BioRhyme', serif;
+    font-size: 50px;
+    align-content: center;
+    text-align: center;
+    color: white;
+    display: inline;
+}
+.Header_title_blue
+{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 52px;
+    align-content: center;
+    text-align: center;
+    color: rgb(11, 152, 247);
+    display: inline;
+    font-weight: bold;
+}
+.contain_box {
+    overflow: hidden;
+    min-width: 350px;
+    min-height: 600px;
+    width:25%;
+    height:600px;
+    background:rgb(35,35,35);
+    border-radius: 25px;
+}
